@@ -19,8 +19,7 @@
     background-color: #0293fe;
     height: 100px;
     width: 100px;
-    float: right;
-    z-index: 2;
+    float: left;
 }
 
 .right {
